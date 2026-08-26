@@ -38,25 +38,25 @@ o sistema deve validar as informações
  ![Business Model Canva](image/bussines-model-canvas.png)
 
  ## REQUISITOS:
- 1. requisitos funcionais:
-    cadastrar alunos 
-    cadastrar funcionarios 
-    cadastrar cursos
-    listar alunos
-    listar cursos
-    listar funcionarios
-    mostrar os dados dos alunos
-    mostrar os dados dos funcionarios
-    mostrar os dados do curso
-    realizar as matriculas
-    editar os dados do aluno
-    editar os dados do funcionario
-    editar os dados do curso
-    excluir os alunos
-    excluir os funcionarios
-    excluir os cursos
-    excluir as matriculas
-    carga horaria
+ 1. Requisitos funcionais:
+    Cadastrar alunos 
+    Cadastrar funcionarios 
+    Cadastrar cursos
+    Listar alunos
+    Listar cursos
+    Listar funcionarios
+    Mostrar os dados dos alunos
+    Mostrar os dados dos funcionarios
+    Mostrar os dados do curso
+    Realizar as matriculas
+    Editar os dados do aluno
+    Editar os dados do funcionario
+    Editar os dados do curso
+    Excluir os alunos
+    Excluir os funcionarios
+    Excluir os cursos
+    Excluir as matriculas
+    Carga horaria
     Alterar cadastro
     Excluir cadastro
     Cadastrar turmas
@@ -70,12 +70,12 @@ o sistema deve validar as informações
     Fazer relatórios
     
 
-2. requisitos não funcionais:
-    autenticação
-    interface com navegação padronizada e consistente entre as telas
-    interface responsaveis e adaptativa e diversas reluções de tela e dispopsitivos diferentes,como computador ,celular e tablet
-    interface deve ser computavel com os principios navegadores web
-    criptografar as senhas antes de salva-las no banco de dados
+2. Requisitos não funcionais:
+    Autenticação
+    Interface com navegação padronizada e consistente entre as telas
+    Interface responsaveis e adaptativa e diversas reluções de tela e dispopsitivos diferentes,como computador ,celular e tablet
+    Interface deve ser computavel com os principios navegadores web
+    Criptografar as senhas antes de salva-las no banco de dados
     Ser fácil de usar
     Ser rápido
     Ser seguro
