@@ -57,6 +57,17 @@ o sistema deve validar as informações
     excluir os cursos
     excluir as matriculas
     carga horaria
+    Alterar cadastro
+    Excluir cadastro
+    Cadastrar turmas
+    Cadastrar disciplinas
+    Registrar notas
+    Registrar faltas
+    Consultar notas
+    Consultar faltas
+    Emitir boletim
+    Cadastrar horários
+    Fazer relatórios
     
 
 2. requisitos não funcionais:
@@ -65,3 +76,18 @@ o sistema deve validar as informações
     interface responsaveis e adaptativa e diversas reluções de tela e dispopsitivos diferentes,como computador ,celular e tablet
     interface deve ser computavel com os principios navegadores web
     criptografar as senhas antes de salva-las no banco de dados
+    Ser fácil de usar
+    Ser rápido
+    Ser seguro
+    Ter uma interface simples
+    Funcionar no computador
+    Funcionar no celular
+    Proteger os dados
+    Ter senha segura
+    Evitar perda de dados
+    Fazer backup
+    Ter poucos erros
+    Carregar rapidamente
+    Ser organizado
+    Funcionar todos os dias
+    Ser fácil de atualizar
