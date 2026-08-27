@@ -68,6 +68,21 @@ o sistema deve validar as informações
     Emitir boletim
     Cadastrar horários
     Fazer relatórios
+    Pesquisar alunos
+    Pesquisar funcionários
+    Pesquisar cursos
+    Pesquisar turmas
+    Pesquisar disciplinas
+    Consultar matrículas
+    Cancelar matrícula
+    Cadastrar responsáveis pelos alunos
+    Consultar responsáveis
+    Cadastrar salas
+    Associar professores às disciplinas
+    Associar alunos às turmas
+    Alterar notas dos alunos
+    Alterar faltas dos alunos
+    Consultar o calendário escolar
     
 
 2. Requisitos não funcionais:
@@ -91,3 +106,18 @@ o sistema deve validar as informações
     Ser organizado
     Funcionar todos os dias
     Ser fácil de atualizar
+    Ser compatível com diferentes navegadores.
+    Ter cores agradáveis
+    Ter textos fáceis de ler
+    Ter botões fáceis de encontrar
+    Ter telas bem organizadas
+    Ter menus simples
+    Permitir recuperação de senha
+    Mostrar mensagens de confirmação
+    Mostrar mensagens de erro
+    Ter boa qualidade visual
+    Ser compatível com diferentes tamanhos de tela
+    Permitir manutenção do sistema
+    Evitar dados duplicados
+    Manter os dados atualizados
+    Permitir vários usuários ao mesmo tempo
